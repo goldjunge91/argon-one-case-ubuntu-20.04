@@ -20,8 +20,7 @@ The modified script contains three changes to the original script:
 Feel free to review the source code of the modified script before installation.
 
 ```bash
-cd /tmp/
-wget https://raw.githubusercontent.com/meuter/argon-one-case-ubuntu-20.04/master/argon1.sh
+wget https://raw.githubusercontent.com/goldjunge91/argon-one-case-ubuntu-20.04/refs/heads/master/argon1.sh
 chmod a+x argon1.sh
 sudo ./argon1.sh
 ```
